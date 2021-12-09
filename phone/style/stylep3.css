@@ -1,0 +1,13 @@
+html, body, .page {
+  /* Parametre général du site */
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  /* Kylian - J'ai défini la transition avec : https://cubic-bezier.com/ */
+  transition: all .8s cubic-bezier(0.54, 0.35, 0.29, 0.99);
+  -webkit-transition: all .8s cubic-bezier(0.54, 0.35, 0.29, 0.99);
+  -moz-transition: all .8s cubic-bezier(0.54, 0.35, 0.29, 0.99);
+  -o-transition: all .8s cubic-bezier(0.54, 0.35, 0.29, 0.99);
+  background-color: #27ADCE;
+}

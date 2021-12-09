@@ -1,0 +1,28 @@
+/* Couleurs arrière plan des pages */
+#p1 { background-color: #0f0f0f; }
+#p2 { background-color: #460236; }
+#p3 { background-color: #0f0f0f; }
+#p4 { background-color: #3b060c; }
+#p5 { background-color: #1a0114; }
+
+.titre {
+  color: white;
+  -webkit-text-stroke: 1px;
+  -webkit-text-stroke-color: white;
+}
+
+.titregsp {
+  color: white;
+}
+
+.titregsp2 {
+  color: white;
+}
+
+.titregsp3 {
+  color: white;
+}
+
+.titregspv2{
+  color: white;
+}
